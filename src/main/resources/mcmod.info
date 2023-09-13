@@ -1,0 +1,23 @@
+{
+  "modListVersion": 2,
+  "modList": [
+    {
+      "modid": "novaeng_galactic_shop",
+      "name": "Nova Engineering - GalacticShop",
+      "description": "新星工程计划星际商城客户端模组。",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "https://github.com/NovaEngineering-Source/NovaEng-GalacticShop",
+      "updateUrl": "",
+      "authorList": [
+        "Kasumi_Nova"
+      ],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": [],
+      "requiredMods": [],
+      "useDependencyInformation": true
+    }
+  ]
+}
